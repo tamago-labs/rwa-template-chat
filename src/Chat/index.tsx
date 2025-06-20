@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Authenticator } from "@aws-amplify/ui-react";
-import { AIConversation } from '@aws-amplify/ui-react-ai';
-import { useAIConversation } from "../App"
+// import { AIConversation } from '@aws-amplify/ui-react-ai';
+// import { useAIConversation } from "../App"
 
 interface Message {
     id: string;
